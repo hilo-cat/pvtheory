@@ -1,0 +1,11 @@
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+pyfftw==0.13.1
+Cython==0.29.37
+h5py==3.11.0
+hdf5plugin==4.4.0
+scipy==1.13.0
+jupyter==1.0.0
+notebook==7.1.3
+Pylians==0.12
